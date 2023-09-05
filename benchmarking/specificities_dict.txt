@@ -1,0 +1,108 @@
+33p-l-ala	3-(3-pyridyl)-l-alanine
+3-me-glu	3-methyl-glutamate
+3oh-3me-pro	3-hydroxy-3-methylproline
+3oh-4me-pro	3-hydroxy-4-methylproline
+3oh-gln	3-hydroxyglutamine
+3oh-leu	3-hydroxyleucine
+3oh-pro	3-hydroxyproline
+4-5-dehydro-arg	4,5-dehydroarginine
+4oh-5oh-hty	4,5-dihydroxyhomotyrosine
+4oh-5oh-orn	4,5-dihydroxyornithine
+4oh-pro	4-hydroxyproline
+6cl-4hydroxyindole-3-carboxylic	6-chloro-4-hydroxyindole-3-carboxylic acid
+6cl-trp	6-chlorotryptophan
+aad	2-aminoadipic acid
+abu	2-aminobutyric acid
+abu-iva	2-aminobutyric acid
+aeo	2-amino-8-oxo-9,10-decanoate
+aile	allo-isoleucine
+ala	alanine
+alaninol	alaninol
+alpha-me-ser	2-methylserine
+aoh-gly	glycine
+arg	arginine
+asn	asparagine
+asp	aspartic acid
+athr	threonine
+b-ala	alanine
+bht	beta-hydroxy-tyrosine
+blys	beta-lysine
+bme-asp	beta-methyl-aspartic acid
+bmt	4-butenyl-4-methyl threonine
+boh-d-leu	leucine
+boh-ome-tyr	O-methyltyrosine
+boh-phe	beta-hydroxyphenylalanine
+cys	cysteine
+cysa	cysteic acid
+dab	2,4-diaminobutyric acid
+d-ala	D-alanine
+d-asn	asparagine
+d-athr	allo-threonine
+d-cyclo-horn	N5-hydroxyornithine
+d-cys	cysteine
+d-dab	2,4-diaminobutyric acid
+deoxy-thr	threonine
+d-gln	glutamine
+dhab	2,3-dehydroaminobutyric acid
+dhab-dht	2,3-dehydroaminobutyric acid
+dhabu	2,3-dehydro-2-aminobutyric acid
+dhb	2,3-dihydroxybenzoic acid
+dhb-sal	2,3-dihydroxybenzoic acid
+dhpg	3,5-dihydroxyphenylglycine
+dht	2,3-dehydroaminobutyric acid
+d-leu	leucine
+dpg	3,5-dihydroxyphenylglycine
+dpr	2,3-diaminopropionic acid
+d-pro	proline
+d-ser	serine
+d-thr	threonine
+d-trp	tryptophan
+d-val	valine
+fhorn	N5-formyl-N5-hydroxyornithine
+gln	glutamine
+glu	glutamic acid
+gly	glycine
+glycolic-acid	glycolic acid
+glycy	guanidinoacetic acid
+gly-ph	4-hydroxyphenylglycine
+goh-val	valine
+his	histidine
+horn	N5-hydroxyornithine
+hpg	4-hydroxyphenylglycine
+hpg2cl	3,5-dichloro-4-hydroxyphenylglycine
+hpg-hpg2cl	4-hydroxyphenylglycine
+hse	homoserine
+hyv	2-hydroxyvaleric acid
+ile	isoleucine
+iva	isovaline
+kyn	kynurenine
+leu	leucine
+lys	lysine
+lys-erg	lysine
+me-asp	3-methylaspartic acid
+me-pro	methylproline
+met	methionine
+me-tyr	methyltyrosine
+N/A	NaN
+nme-fhorn	N5-formyl-N5-hydroxyornithine	
+nme-thr	O-methylthreonine
+no_call	NaN
+noh-ala	alanine
+noh-d-ala	alaninw
+noh-val	valine
+oh-d-ala	alanine
+orn	ornithine
+phe	phenylalanine
+phe-ac	phenylacetate
+pip	pipecolic acid
+piperazic	piperazic acid
+pro	proline
+pro-me-pro	proline
+sal	salicylic acid
+sar	sarcosine
+ser	serine
+thr	threonine
+trp	tryptophan
+tyr	tyrosine
+val	valine
+val-vol	valine

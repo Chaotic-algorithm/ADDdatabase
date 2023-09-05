@@ -1,0 +1,5 @@
+	Precision (micro)	Recall (micro)	F1-score (micro)
+SANDPUMA (Ensemble)	0.56381	0.57583	0.56975
+NRPSsp (pHMM)	0.53731	0.51185	0.52427
+NRPSPredictor2 (ASM)	0.61787	0.59005	0.60364
+NRPSPredictor2 (SVM)	0.8194	0.58057	0.67961
